@@ -4,6 +4,12 @@ This repository brings together two data science projects into a single, unified
 
 ---
 
+## 📂 Notebooks & Submissions
+
+Access all Jupyter notebooks and final submissions here:  
+📎 [Google Drive – Project Submissions](https://drive.google.com/drive/folders/1nYohxrd1_WrTXtVmqS_d5q58zZBmQDUa?usp=sharing)
+
+
 ## 📘 Projects
 
 ### 🌤️ Weather Forecasting (DS_1)
@@ -25,11 +31,5 @@ This repository brings together two data science projects into a single, unified
 
 ---
 
-## 📂 Notebooks & Submissions
-
-Access all Jupyter notebooks and final submissions here:  
-📎 [Google Drive – Project Submissions](https://drive.google.com/drive/folders/1nYohxrd1_WrTXtVmqS_d5q58zZBmQDUa?usp=sharing)
-
----
 
 > 📌 Both projects are available with detailed notebook implementations and are designed for hackathons, research, or portfolio showcases.
